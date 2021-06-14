@@ -1,0 +1,11 @@
+{
+    "name": "Ace Token",
+    "website": "https://aceswap.finance",
+    "description": "Ace Token (ACE) is an swap based token.",
+    "explorer": "https://polygonscan.com/address/0x550d07A5c1591331598E4e3A38a8C32d41EFc7B7",
+    "type": "ERC20",
+    "symbol": "ACE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x550d07A5c1591331598E4e3A38a8C32d41EFc7B7"
+}
